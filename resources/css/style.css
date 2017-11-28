@@ -5,13 +5,19 @@ body{
 }
 h1{
   color: white;
-  font-size: 50;
+  font-size: 50px;
+  font-weight: normal;
 }
 h2{
+  color: white;
   font-weight: 300;
-  font-size: 42;
+  font-size: 42px;
 }
-.class{
+p{
+  color: gray;
+  font-size: 21px;
+}
+a{
   color: aquamarine;
-  font-size: 16px;
+  font-size: 12px;
 }
